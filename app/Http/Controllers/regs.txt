@@ -1,0 +1,17 @@
+Distributor
+prfoikle
+-Distributor/Store Name
+-Categories
+Region,County,Town,Location descrption,
+Contacts 1,2
+dsitributor id
+Do you offer delivery?
+(radio button)
+Working Days[check box)
+Image,Verification document.
+dsitributor id
+Product
+Product name,
+Quantity
+Price
+Image
